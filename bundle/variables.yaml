@@ -1,0 +1,4 @@
+variables:
+- team: workshop-jenkins
+- admin-user: pisich-admin
+- manager-user: pisich
